@@ -7,5 +7,6 @@ public class A {
 
         System.out.println("Hello World");
         System.out.println("Changes made to branch1 and master here");
+        System.out.println("Another change to master to create Merge-Conflict");
     }
 }
